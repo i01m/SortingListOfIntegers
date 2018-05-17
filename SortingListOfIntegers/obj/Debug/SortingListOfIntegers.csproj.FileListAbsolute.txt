@@ -1,0 +1,13 @@
+H:\Project\C_SHARP\BegVCSharp\SortingListOfIntegers\SortingListOfIntegers\bin\Debug\SortingListOfIntegers.exe.config
+H:\Project\C_SHARP\BegVCSharp\SortingListOfIntegers\SortingListOfIntegers\bin\Debug\SortingListOfIntegers.exe
+H:\Project\C_SHARP\BegVCSharp\SortingListOfIntegers\SortingListOfIntegers\bin\Debug\SortingListOfIntegers.pdb
+H:\Project\C_SHARP\BegVCSharp\SortingListOfIntegers\SortingListOfIntegers\obj\Debug\SortingListOfIntegers.csprojResolveAssemblyReference.cache
+H:\Project\C_SHARP\BegVCSharp\SortingListOfIntegers\SortingListOfIntegers\obj\Debug\SortingListOfIntegers.exe
+H:\Project\C_SHARP\BegVCSharp\SortingListOfIntegers\SortingListOfIntegers\obj\Debug\SortingListOfIntegers.pdb
+C:\projectDevVm\cSharpProjects\SortingListOfIntegers\SortingListOfIntegers\bin\Debug\SortingListOfIntegers.exe.config
+C:\projectDevVm\cSharpProjects\SortingListOfIntegers\SortingListOfIntegers\bin\Debug\SortingListOfIntegers.exe
+C:\projectDevVm\cSharpProjects\SortingListOfIntegers\SortingListOfIntegers\bin\Debug\SortingListOfIntegers.pdb
+C:\projectDevVm\cSharpProjects\SortingListOfIntegers\SortingListOfIntegers\obj\Debug\SortingListOfIntegers.csprojResolveAssemblyReference.cache
+C:\projectDevVm\cSharpProjects\SortingListOfIntegers\SortingListOfIntegers\obj\Debug\SortingListOfIntegers.csproj.CoreCompileInputs.cache
+C:\projectDevVm\cSharpProjects\SortingListOfIntegers\SortingListOfIntegers\obj\Debug\SortingListOfIntegers.exe
+C:\projectDevVm\cSharpProjects\SortingListOfIntegers\SortingListOfIntegers\obj\Debug\SortingListOfIntegers.pdb
